@@ -10,20 +10,29 @@
 
 ## 文件结构
 ``` repo
-.
-  2 ├── 贪心算法
-  3 │   └── LeetCode
-  4 │       ├── Opposite_number.cpp
-  4 │       ├── Opposite_number.cpp
-  4 │       ├── Opposite_number.cpp
-  5 │       └── Opposite_number.md
-  6 ├── Leetcode
-  7 │   └── 0001_两数之和
-  8 │       ├── 0001_两数之和.cpp
-  9 │       └── 0001_两数之和.md
- 10 ├── Other_Problems
- 11 │   └── 背包九讲
- 12         |...
+├── README.md
+├── tree.md
+└── 贪心算法
+    ├── HDOJ
+    │   ├── ex1.cpp
+    │   ├── ex1.md
+    │   ...
+    │   ├── exn.cpp
+    │   └── exn.md
+    ├── LeetCode
+    │   ├── 1052.爱生气的书店老板.cpp
+    │   ├── 1052.爱生气的书店老板.md
+    │   ...
+    │   ├── 621.任务调度器.cpp
+    │   └── 621.任务调度器.md
+    ├── HDOJ
+    │   ├── ex1.cpp
+    │   ├── ex1.md
+    │   ...
+    │   ├── exn.cpp
+    │   └── exn.md
+  ...
+
 ```
  
  1. .cpp文件是source code 语言不仅限于cpp
