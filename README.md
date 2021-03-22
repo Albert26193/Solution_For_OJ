@@ -1,7 +1,7 @@
 # :tada: Solution_For_Leetcode&Codewars
->This is the solution for leetcode and codewars, organized by tags and difficulty.
 
-*自己刷题的一些记录*
+> 重新考虑了如何高效刷题，摒弃了之前以难度为分界的做法。这个仓库里的题目涉及到多个tag和多个oj，以tag为一级分界，以oj为二级分界。<br>
+> update: 2021-03-20
 
 ## :ship: 内容
 1. 题目描述
@@ -11,8 +11,10 @@
 ## 文件结构
 ``` repo
 .
-  2 ├── Codewars
-  3 │   └── 8kyu.Opposite_number
+  2 ├── 贪心算法
+  3 │   └── LeetCode
+  4 │       ├── Opposite_number.cpp
+  4 │       ├── Opposite_number.cpp
   4 │       ├── Opposite_number.cpp
   5 │       └── Opposite_number.md
   6 ├── Leetcode
